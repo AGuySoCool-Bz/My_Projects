@@ -1,0 +1,22 @@
+
+MATHS TEST
+Q1: Question number 54 of PYQS of chapter number 1
+Q2: Question number 18 of RD Sharma of chapter number 2
+Q3: Question number 25 of EXEMPLAR of chapter number 2
+Q4: Question number 48 of RD Sharma of chapter number 4
+Q5: Question number 6 of NCERT of chapter number 5
+Q6: Question number 15 of EXEMPLAR of chapter number 6
+Q7: Question number 13 of PYQS of chapter number 4
+Q8: Question number 56 of RD Sharma of chapter number 6
+Q9: Question number 11 of EXEMPLAR of chapter number 3
+Q10: Question number 35 of NCERT of chapter number 6
+Q11: Question number 59 of RD Sharma of chapter number 2
+Q12: Question number 8 of RD Sharma of chapter number 1
+Q13: Question number 58 of RD Sharma of chapter number 1
+Q14: Question number 21 of EXEMPLAR of chapter number 1
+Q15: Question number 36 of RD Sharma of chapter number 4
+Q16: Question number 30 of EXEMPLAR of chapter number 2
+Q17: Question number 45 of RD Sharma of chapter number 5
+Q18: Question number 59 of PYQS of chapter number 3
+Q19: Question number 33 of NCERT of chapter number 6
+Q20: Question number 15 of RD Sharma of chapter number 2
